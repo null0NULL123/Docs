@@ -6,7 +6,7 @@ Less is More.
 
 ### [Python](https://docs.python.org/3/)
 
-[mro](https://opendylan.org/_static/c3-linearization.pdf)
+[MRO](https://opendylan.org/_static/c3-linearization.pdf)
 
 ## Backend
 
@@ -16,7 +16,7 @@ _高性能 MySQL（第 4 版）_
 
 ### [Redis](https://redis.io/docs/latest/develop/)
 
-### [minIO](https://docs.min.io/enterprise/aistor-object-store/)
+### [MinIO](https://docs.min.io/enterprise/aistor-object-store/)
 
 ## AI
 
@@ -41,6 +41,12 @@ _高性能 MySQL（第 4 版）_
 
 ### Application
 
+#### CVAT
+
 #### MOT
 
 #### RAG
+
+_RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval_
+
+[LightRAG](https://github.com/HKUDS/LightRAG)
