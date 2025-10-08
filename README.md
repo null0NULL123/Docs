@@ -28,6 +28,12 @@ Less is More.
 
 - [fastapi](https://fastapi.tiangolo.com/)
 
+### System
+
+- [Linux](https://www.kernel.org/doc/html/latest/)
+
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv)
+
 ## AI
 
 ### Theory
