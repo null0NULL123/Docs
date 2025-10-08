@@ -1,0 +1,2 @@
+# Resource
+Less is More.
