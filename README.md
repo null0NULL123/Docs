@@ -6,9 +6,11 @@ Less is More.
 
 ### [Python](https://docs.python.org/3/)
 
-[MRO](https://opendylan.org/_static/c3-linearization.pdf)
-
 [cpython](https://github.com/python/cpython)
+
+[cython](https://github.com/cython/cython)
+
+[MRO](https://opendylan.org/_static/c3-linearization.pdf)
 
 ## Backend
 
@@ -54,7 +56,7 @@ Less is More.
 
 - _Proximal Policy Optimization Algorithms_
 
-  - [code](https://github.com/nikhilbarhate99/PPO-PyTorch)
+  - [PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch)
 
 ### Application
 
@@ -105,3 +107,5 @@ Less is More.
 #### Agent
 
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547v2)
+
+#### EEG
