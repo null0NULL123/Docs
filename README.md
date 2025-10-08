@@ -8,15 +8,25 @@ Less is More.
 
 [MRO](https://opendylan.org/_static/c3-linearization.pdf)
 
+[cpython](https://github.com/python/cpython)
+
 ## Backend
 
-### [MySQL](https://dev.mysql.com/doc/refman/8.4/en/)
+### Database
 
-_高性能 MySQL（第 4 版）_
+#### [MySQL](https://dev.mysql.com/doc/refman/8.4/en/)
 
-### [Redis](https://redis.io/docs/latest/develop/)
+- _高性能 MySQL（第 4 版）_
 
-### [MinIO](https://docs.min.io/enterprise/aistor-object-store/)
+#### [Redis](https://redis.io/docs/latest/develop/)
+
+### Object Storage
+
+#### [MinIO](https://docs.min.io/enterprise/aistor-object-store/)
+
+### Server
+
+#### [fastapi](https://fastapi.tiangolo.com/)
 
 ## AI
 
@@ -26,27 +36,44 @@ _高性能 MySQL（第 4 版）_
 
 #### DL
 
-##### Deep Learning
+- [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
 
-[en](https://github.com/janishar/mit-deep-learning-book-pdf)
-[cn](https://github.com/exacity/deeplearningbook-chinese)
-
-##### [D2L](https://zh.d2l.ai/)
+- [D2L](https://zh.d2l.ai/)
 
 #### RL
 
-##### Proximal Policy Optimization Algorithms
+- _Proximal Policy Optimization Algorithms_
 
-[code](https://github.com/nikhilbarhate99/PPO-PyTorch)
+  - [code](https://github.com/nikhilbarhate99/PPO-PyTorch)
 
 ### Application
 
 #### CVAT
 
-#### MOT
+#### Tracking
 
-#### RAG
+- [ultralytics](https://docs.ultralytics.com/zh/)
 
-_RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval_
+- [SORT](https://arxiv.org/abs/1602.00763)
 
-[LightRAG](https://github.com/HKUDS/LightRAG)
+- _Kalman Filter_
+
+- _The Hungarian Method for the Assignment Problem_
+
+#### LLM
+
+- [LoRA](https://arxiv.org/abs/2106.09685)
+
+#### [RAG](https://arxiv.org/abs/2005.11401)
+
+[refered from](https://syhya.github.io/zh/)
+
+- _RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval_
+
+- [ColBERT](https://github.com/stanford-futuredata/ColBERT)
+
+- [LightRAG](https://github.com/HKUDS/LightRAG)
+
+#### Agent
+
+- [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547v2)
