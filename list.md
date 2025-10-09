@@ -45,6 +45,8 @@ Less is More.
 
 - [FFmpeg](https://ffmpeg.org/documentation.html)
 
+## Frontend
+
 ## AI
 
 ### DL
@@ -80,6 +82,8 @@ Less is More.
 ### LLM
 
 #### Architecture
+
+- [DeepSeek-R1](https://arxiv.org/pdf/2501.12948)
 
 #### Fine-tuning
 
