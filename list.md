@@ -4,13 +4,13 @@ Less is More.
 
 ## Language
 
+[MRO](https://opendylan.org/_static/c3-linearization.pdf)
+
 ### [Python](https://docs.python.org/3/)
 
 [cpython](https://github.com/python/cpython)
 
 [cython](https://github.com/cython/cython)
-
-[MRO](https://opendylan.org/_static/c3-linearization.pdf)
 
 ## Backend
 
@@ -29,6 +29,7 @@ Less is More.
 ### Server
 
 - [fastapi](https://fastapi.tiangolo.com/)
+- [bottle](https://gitlab.com/bottle/bottle)
 
 ### System
 
@@ -44,12 +45,15 @@ Less is More.
 
 ### DL
 
-- [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
-- [D2L](https://zh.d2l.ai/)
-- [Knowledge Distillation](https://arxiv.org/abs/1503.02531)
-- [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [ultralytics](https://docs.ultralytics.com/zh/)
+- Books
+  - [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
+  - [D2L](https://zh.d2l.ai/)
+- Papers
+  - [Knowledge Distillation](https://arxiv.org/abs/1503.02531)
+  - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
+  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- Projects
+  - [ultralytics](https://docs.ultralytics.com/zh/)
 
 ### RL
 
