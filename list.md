@@ -45,6 +45,8 @@ Less is More.
 
 - [Python compilers](https://github.com/cython/cython?tab=readme-ov-file#differences-to-other-python-compilers)
 
+- [Taichi](https://github.com/taichi-dev/taichi)
+
 ## Backend
 
 - [小林coding](https://xiaolincoding.com/)

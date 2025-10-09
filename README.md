@@ -2,6 +2,11 @@
 
 ## Thanks to
 
-- [awesome](https://github.com/sindresorhus/awesome)
+- List
+  - [awesome](https://github.com/sindresorhus/awesome)
 
-- [syhya's blog](https://syhya.github.io/zh/)
+- Python
+  - [Tian Gao](https://github.com/gaogaotiantian)
+- ML
+- RAG
+  - [syhya's blog](https://syhya.github.io/zh/)
