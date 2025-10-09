@@ -14,6 +14,8 @@ Less is More.
 
 ## Backend
 
+- [小林coding](https://xiaolincoding.com/)
+
 ### Database
 
 - [MySQL](https://dev.mysql.com/doc/refman/8.4/en/)
@@ -58,8 +60,6 @@ Less is More.
   - [Knowledge Distillation](https://arxiv.org/abs/1503.02531)
   - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- Projects
-  - [ultralytics](https://docs.ultralytics.com/zh/)
 
 ### RL
 
@@ -69,11 +69,20 @@ Less is More.
 
 ### Cross Domain
 
+- [DANN](https://arxiv.org/pdf/1505.07818)
+- [CDAN](https://github.com/thuml/CDAN)
+- [CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark.git)
+
 ### CVAT
+
+### Object Detection
+
+- [ultralytics](https://docs.ultralytics.com/zh/)
+- [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 
 ### MOT
 
-- [SORT](https://arxiv.org/abs/1602.00763)
+- [SORT](https://github.com/abewley/sort)
 
 - _Kalman Filter_
 
