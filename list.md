@@ -35,9 +35,11 @@ Less is More.
 
 ### [Python](https://docs.python.org/3/)
 
-[cpython](https://github.com/python/cpython)
+- [PEP](https://peps.python.org/)
 
-[Python compilers](https://github.com/cython/cython?tab=readme-ov-file#differences-to-other-python-compilers)
+- [cpython](https://github.com/python/cpython)
+
+- [Python compilers](https://github.com/cython/cython?tab=readme-ov-file#differences-to-other-python-compilers)
 
 ## Backend
 
@@ -54,6 +56,7 @@ Less is More.
 ### Object Storage
 
 - [MinIO](https://docs.min.io/enterprise/aistor-object-store/)
+- [SeaweedFS](https://github.com/seaweedfs)
 
 ### Server
 
@@ -62,7 +65,7 @@ Less is More.
 
 ### Client
 
-- [aiohttp](https://docs.aiohttp.org/en/stable/)
+- [aiohttp](https://docs.aiohttp.org/（en/stable/)
 
 ### System
 
