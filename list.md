@@ -18,7 +18,7 @@ Less is More.
   - [Deep Learning](#dl)
   - [Reinforcement Learning](#rl)
   - [Cross Domain](#cross-domain)
-  - [CVAT](#cvat)
+  - [Computer Vision Annotation Tool](#computer-vision-annotation-tool)
   - [Object Detection](#object-detection)
   - [Multi-Object Tracking](#mot)
   - [Large Language Models](#llm)
@@ -99,7 +99,10 @@ Less is More.
 - [CDAN](https://github.com/thuml/CDAN)
 - [CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark.git)
 
-### CVAT
+### Computer Vision Annotation Tool
+
+- [CVAT](https://github.com/cvat-ai/cvat)
+- [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)
 
 ### Object Detection
 
