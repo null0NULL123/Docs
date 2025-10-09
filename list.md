@@ -31,6 +31,10 @@ Less is More.
 - [fastapi](https://fastapi.tiangolo.com/)
 - [bottle](https://gitlab.com/bottle/bottle)
 
+### Client
+
+- [aiohttp](https://docs.aiohttp.org/en/stable/)
+
 ### System
 
 - [Linux](https://www.kernel.org/doc/html/latest/)
@@ -98,6 +102,8 @@ Less is More.
 - _RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval_
 
 - [ColBERT](https://github.com/stanford-futuredata/ColBERT)
+
+#### Project
 
 - [LightRAG](https://github.com/HKUDS/LightRAG)
 
