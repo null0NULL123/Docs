@@ -29,7 +29,7 @@ Less is More.
   - [Retrieval-Augmented Generation](#rag)
   - [Agent](#agent)
   - [AGI](#agi)
-  - [EEG](#eeg)
+- [Tool](#tool)
 
 ---
 
@@ -226,11 +226,21 @@ Less is More.
 - [Cohere](https://docs.cohere.com/docs/the-cohere-platform)
 - [langfuse](https://langfuse.com/cn)
 
+#### IDE
+
+- [Continue](https://github.com/continuedev/continue)
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code)
+
 ### AGI
 
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547v2)
 
-### EEG
+## Tool
+
+- Material
+  - [pymatgen](https://pymatgen.org/)
+- Neuroscience
+  - [PsychoPy](https://github.com/psychopy/psychopy)
 
 ---
 
