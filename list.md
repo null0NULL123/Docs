@@ -58,7 +58,7 @@ Less is More.
   - _高性能 MySQL（第 4 版）_
 
 - [Redis](https://redis.io/docs/latest/develop/)
-
+- _SQLite_
 - [ClickHouse](https://clickhouse.com/docs/en/)
 
 ### Middleware
@@ -113,18 +113,19 @@ Less is More.
 
 - [鸢尾花书](https://github.com/Visualize-ML)
 - [sklearn](https://scikit-learn.org/stable/user_guide.html)
+- _ARIMA_
 - [lightgbm](https://github.com/microsoft/LightGBM)
 
 ### DL
 
-- Books
+- Book
   - [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
   - [D2L](https://zh.d2l.ai/)
-- Papers
+- Paper
   - [Knowledge Distillation](https://arxiv.org/abs/1503.02531)
   - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- Projects
+- Project
   - [Netron](https://github.com/lutzroeder/netron)
 
 ### RL
@@ -167,34 +168,58 @@ Less is More.
 
 - [LoRA](https://arxiv.org/abs/2106.09685)
 
+#### Platform
+
+- [Hugging Face](https://huggingface.co/)
+- [ModelScope](https://www.modelscope.cn/)
+
 ### Prompt Engineering
 
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 ### [RAG](https://arxiv.org/abs/2005.11401)
 
+- Extract
 - Chunking
 
 - Embedding
-
+  - [bge-m3](https://arxiv.org/abs/2402.03216)
 - Indexing
 
 - Query
   - [HyDE](https://arxiv.org/pdf/2212.10496)
+
 - Retrieval
-  - _RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval_
+
+  - [ANN](https://zilliz.com/glossary/anns)
+
+  - _TF-IDF_
+  - _Best Matching 25_
+
 - Rerank
+  
+- Paper
+
+  - [RAPTOR](https://arxiv.org/abs/2402.03216)
   - [ColBERT](https://github.com/stanford-futuredata/ColBERT)
 
-#### Project
+- Project
 
-- [llama_index](https://github.com/run-llama/llama_index)
-- [LightRAG](https://github.com/HKUDS/LightRAG)
-- [RAGFlow](https://github.com/infiniflow/ragflow)
+  - [LightRAG](https://github.com/HKUDS/LightRAG)
+  - [RAGFlow](https://github.com/infiniflow/ragflow)
+
+  - [ragas](https://github.com/explodinggradients/ragas)
+  - [evalscope](https://github.com/modelscope/evalscope)
 
 ### Agent
 
+- [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
+
+#### Project
+
 - [langchain](https://github.com/langchain-ai/langchain)
+- [llama_index](https://github.com/run-llama/llama_index)
+- [Cohere](https://docs.cohere.com/docs/the-cohere-platform)
 - [langfuse](https://langfuse.com/cn)
 
 ### AGI
