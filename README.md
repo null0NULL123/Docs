@@ -1,5 +1,7 @@
 # Docs
 
+This repository includes a carefully organized resources list (`list.md`).
+
 ## Thanks to
 
 - List
@@ -7,6 +9,5 @@
   - [3Blue1Brown](https://www.3blue1brown.com/)
 - Python
   - [Tian Gao](https://github.com/gaogaotiantian)
-
 - RAG
   - [syhya's blog](https://syhya.github.io/zh/)
