@@ -5,7 +5,7 @@ This repository includes a carefully organized resources list (`list.md`).
 ## Thanks to
 
 - List
-  - [awesome](https://github.com/sindresorhus/awesome)
+  - [Top-100-stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md)
   - [3Blue1Brown](https://www.3blue1brown.com/)
 - Python
   - [Tian Gao](https://github.com/gaogaotiantian)
