@@ -47,6 +47,10 @@ Less is More.
 
 - [Taichi](https://github.com/taichi-dev/taichi)
 
+### Golang
+
+- [Tour of Go](https://go.dev/tour/list)
+
 ## Backend
 
 - [小林coding](https://xiaolincoding.com/)
@@ -115,10 +119,13 @@ Less is More.
 
 ### ML
 
-- [鸢尾花书](https://github.com/Visualize-ML)
-- [sklearn](https://scikit-learn.org/stable/user_guide.html)
-- _ARIMA_
-- [lightgbm](https://github.com/microsoft/LightGBM)
+- Guide
+  - [鸢尾花书](https://github.com/Visualize-ML)
+  - [sklearn](https://scikit-learn.org/stable/user_guide.html)
+
+- Algorithm
+  - _ARIMA_
+  - [LightGBM](https://arxiv.org/abs/1711.07977)
 
 ### DL
 
@@ -241,7 +248,8 @@ Less is More.
   - [pymatgen](https://pymatgen.org/)
 - Neuroscience
   - [PsychoPy](https://github.com/psychopy/psychopy)
-
+  - [EEGLAB](https://github.com/sccn/eeglab)
+  
 ---
 
 **Navigation**: [To Top](#resource) | [Category](#category)
