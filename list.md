@@ -77,6 +77,12 @@ Less is More.
 
 ## AI
 
+### ML
+
+- [鸢尾花书](https://github.com/Visualize-ML)
+- [sklearn](https://scikit-learn.org/stable/user_guide.html)
+- [lightgbm](https://github.com/microsoft/LightGBM)
+
 ### DL
 
 - Books
