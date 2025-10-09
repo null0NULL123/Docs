@@ -53,6 +53,29 @@ Less is More.
 
 - [Redis](https://redis.io/docs/latest/develop/)
 
+- [ClickHouse](https://clickhouse.com/docs/en/)
+
+### Middleware
+
+- [Kafka](https://kafka.apache.org/documentation/)
+- [RocketMQ](https://rocketmq.apache.org/docs/quick-start/)
+
+- [Nginx](https://nginx.org/en/docs/)
+- [Traefik](https://doc.traefik.io/traefik/)
+
+- [Nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html)
+
+- [Elasticsearch](https://github.com/elastic/elasticsearch)
+
+- [gRPC](https://grpc.io/docs/)
+
+- [Kubernetes](https://kubernetes.io/docs/home/)
+
+### Operator
+
+- [Docker](https://docs.docker.com/)
+- [Kubernetes](https://kubernetes.io/docs/home/)
+
 ### Object Storage
 
 - [MinIO](https://docs.min.io/enterprise/aistor-object-store/)
@@ -96,6 +119,8 @@ Less is More.
   - [Knowledge Distillation](https://arxiv.org/abs/1503.02531)
   - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- Projects
+  - [Netron](https://github.com/lutzroeder/netron)
 
 ### RL
 
@@ -164,6 +189,8 @@ Less is More.
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547v2)
 
 ### EEG
+
+### Agent
 
 ---
 
