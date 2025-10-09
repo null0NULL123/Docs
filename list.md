@@ -57,12 +57,14 @@ Less is More.
 
 ### Database
 
+- _SQLite_
 - [MySQL](https://dev.mysql.com/doc/refman/8.4/en/)
 
   - _高性能 MySQL（第 4 版）_
 
 - [Redis](https://redis.io/docs/latest/develop/)
-- _SQLite_
+
+- [neo4j](https://neo4j.com/)
 - [ClickHouse](https://clickhouse.com/docs/en/)
 
 ### Middleware
@@ -196,7 +198,7 @@ Less is More.
 - Embedding
   - [bge-m3](https://arxiv.org/abs/2402.03216)
 - Indexing
-
+- Vector Store
 - Query
   - [HyDE](https://arxiv.org/pdf/2212.10496)
 
@@ -249,7 +251,7 @@ Less is More.
 - Neuroscience
   - [PsychoPy](https://github.com/psychopy/psychopy)
   - [EEGLAB](https://github.com/sccn/eeglab)
-  
+
 ---
 
 **Navigation**: [To Top](#resource) | [Category](#category)
