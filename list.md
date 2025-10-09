@@ -20,12 +20,14 @@ Less is More.
   - [Machine Learning](#ml)
   - [Deep Learning](#dl)
   - [Reinforcement Learning](#rl)
-  - [Cross Domain](#cross-domain)
   - [Computer Vision Annotation Tool](#computer-vision-annotation-tool)
   - [Object Detection](#object-detection)
+  - [Cross Domain](#cross-domain)
   - [Multi-Object Tracking](#mot)
   - [Large Language Models](#llm)
+  - [Prompt Engineering](#prompt-engineering)
   - [Retrieval-Augmented Generation](#rag)
+  - [Agent](#agent)
   - [AGI](#agi)
   - [EEG](#eeg)
 
@@ -129,12 +131,6 @@ Less is More.
 
   - [PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch)
 
-### Cross Domain
-
-- [DANN](https://arxiv.org/pdf/1505.07818)
-- [CDAN](https://github.com/thuml/CDAN)
-- [CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark.git)
-
 ### Computer Vision Annotation Tool
 
 - [CVAT](https://github.com/cvat-ai/cvat)
@@ -144,6 +140,12 @@ Less is More.
 
 - [ultralytics](https://docs.ultralytics.com/zh/)
 - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+
+### Cross Domain
+
+- [DANN](https://arxiv.org/pdf/1505.07818)
+- [CDAN](https://github.com/thuml/CDAN)
+- [CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark.git)
 
 ### MOT
 
@@ -163,35 +165,41 @@ Less is More.
 
 - [LoRA](https://arxiv.org/abs/2106.09685)
 
+### Prompt Engineering
+
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+
 ### [RAG](https://arxiv.org/abs/2005.11401)
 
-#### Chunking
+- Chunking
 
-#### Embedding
+- Embedding
 
-#### Indexing
+- Indexing
 
-#### Query
-
-#### Retrieval
-
-#### Rerank
-
-- _RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval_
-
-- [ColBERT](https://github.com/stanford-futuredata/ColBERT)
+- Query
+  - [HyDE](https://arxiv.org/pdf/2212.10496)
+- Retrieval
+  - _RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval_
+- Rerank
+  - [ColBERT](https://github.com/stanford-futuredata/ColBERT)
 
 #### Project
 
+- [llama_index](https://github.com/run-llama/llama_index)
 - [LightRAG](https://github.com/HKUDS/LightRAG)
+- [RAGFlow](https://github.com/infiniflow/ragflow)
+
+### Agent
+
+- [langchain](https://github.com/langchain-ai/langchain)
+- [langfuse](https://langfuse.com/cn)
 
 ### AGI
 
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547v2)
 
 ### EEG
-
-### Agent
 
 ---
 
