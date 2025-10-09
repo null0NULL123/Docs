@@ -15,6 +15,7 @@ Less is More.
   - [Media](#media)
 - [Frontend](#frontend)
 - [AI](#ai)
+  - [Machine Learning](#ml)
   - [Deep Learning](#dl)
   - [Reinforcement Learning](#rl)
   - [Cross Domain](#cross-domain)
@@ -23,7 +24,7 @@ Less is More.
   - [Multi-Object Tracking](#mot)
   - [Large Language Models](#llm)
   - [Retrieval-Augmented Generation](#rag)
-  - [Agent](#agent)
+  - [AGI](#agi)
   - [EEG](#eeg)
 
 ---
@@ -36,7 +37,7 @@ Less is More.
 
 [cpython](https://github.com/python/cpython)
 
-[cython](https://github.com/cython/cython)
+[Python compilers](https://github.com/cython/cython?tab=readme-ov-file#differences-to-other-python-compilers)
 
 ## Backend
 
@@ -155,7 +156,7 @@ Less is More.
 
 - [LightRAG](https://github.com/HKUDS/LightRAG)
 
-### Agent
+### AGI
 
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547v2)
 
