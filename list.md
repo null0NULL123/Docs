@@ -2,6 +2,32 @@
 
 Less is More.
 
+## Category
+
+- [Language](#language)
+  - [Python](#python)
+- [Backend](#backend)
+  - [Database](#database)
+  - [Object Storage](#object-storage)
+  - [Server](#server)
+  - [Client](#client)
+  - [System](#system)
+  - [Media](#media)
+- [Frontend](#frontend)
+- [AI](#ai)
+  - [Deep Learning](#dl)
+  - [Reinforcement Learning](#rl)
+  - [Cross Domain](#cross-domain)
+  - [CVAT](#cvat)
+  - [Object Detection](#object-detection)
+  - [Multi-Object Tracking](#mot)
+  - [Large Language Models](#llm)
+  - [Retrieval-Augmented Generation](#rag)
+  - [Agent](#agent)
+  - [EEG](#eeg)
+
+---
+
 ## Language
 
 [MRO](https://opendylan.org/_static/c3-linearization.pdf)
@@ -125,3 +151,7 @@ Less is More.
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547v2)
 
 ### EEG
+
+---
+
+**Navigation**: [To Top](#resource) | [Category](#category)
