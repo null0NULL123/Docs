@@ -86,6 +86,8 @@
 
 - [Docker](https://docs.docker.com/)
 - [Kubernetes](https://kubernetes.io/docs/home/)
+- [Prometheus](https://github.com/prometheus/prometheus)
+- [Grafana](https://grafana.com/docs/grafana/latest/)
 
 ### Object Storage
 
@@ -181,12 +183,13 @@
 - _LSTM_
 - [Transformer](https://arxiv.org/abs/1706.03762)
 - [BERT](https://arxiv.org/abs/1810.04805)
-
+- [Llama](https://github.com/meta-llama/llama-cookbook)
 - [DeepSeek-R1](https://arxiv.org/pdf/2501.12948)
 
 #### Fine-tuning
 
 - [LoRA](https://arxiv.org/abs/2106.09685)
+- [RLHF](https://github.com/OpenRLHF/OpenRLHF)
 
 #### Platform
 
@@ -200,6 +203,8 @@
 ### [RAG](https://arxiv.org/abs/2005.11401)
 
 - Extract
+  - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  - [MarkItDown](https://github.com/microsoft/markitdown)
 - Chunking
 
 - Embedding
