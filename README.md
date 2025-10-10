@@ -96,8 +96,9 @@
 
 ### Server
 
-- [fastapi](https://fastapi.tiangolo.com/)
-- [bottle](https://gitlab.com/bottle/bottle)
+- Python
+  - [fastapi](https://fastapi.tiangolo.com/)
+  - [bottle](https://gitlab.com/bottle/bottle)
 
 ### Client
 
@@ -186,7 +187,7 @@
 - [Llama](https://github.com/meta-llama/llama-cookbook)
 - [DeepSeek-R1](https://arxiv.org/pdf/2501.12948)
 
-#### Fine-tuning
+#### Inference
 
 - [LoRA](https://arxiv.org/abs/2106.09685)
 - [RLHF](https://github.com/OpenRLHF/OpenRLHF)
