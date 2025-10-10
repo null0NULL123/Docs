@@ -29,6 +29,7 @@
   - [Agent](#agent)
   - [AGI](#agi)
 - [Tool](#tool)
+- [Thanks to](#thanks-to)
 
 ---
 
