@@ -34,15 +34,17 @@
 
 [MRO](https://opendylan.org/_static/c3-linearization.pdf)
 
-### [Python](https://docs.python.org/3/)
+### Python
 
-- [PEP](https://peps.python.org/)
+- Official
+  - [Python Documentation](https://docs.python.org/3/)
 
-- [cpython](https://github.com/python/cpython)
+  - [PEP](https://peps.python.org/)
 
-- [Python compilers](https://github.com/cython/cython?tab=readme-ov-file#differences-to-other-python-compilers)
-
-- [Taichi](https://github.com/taichi-dev/taichi)
+  - [cpython](https://github.com/python/cpython)
+- Accelerate
+  - [Python compilers](https://github.com/cython/cython?tab=readme-ov-file#differences-to-other-python-compilers)
+  - [Taichi](https://github.com/taichi-dev/taichi)
 
 ### Golang
 
@@ -188,7 +190,15 @@
 
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
-### [RAG](https://www.promptingguide.ai/research/rag.en)
+### RAG
+
+#### Overview
+
+- [Introduction](https://www.promptingguide.ai/research/rag.en)
+- [paper](https://www.promptingguide.ai/research/rag.en#rag-research-insights)
+- [RAGHub](https://github.com/Andrew-Jang/RAGHub)
+
+#### Pipeline
 
 - Extract
   - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
@@ -239,24 +249,26 @@
   - Project
     - [ragas](https://github.com/explodinggradients/ragas)
     - [evalscope](https://github.com/modelscope/evalscope)
-- [Paper](https://www.promptingguide.ai/research/rag.en#rag-research-insights)
 
-  - [RAPTOR](https://arxiv.org/abs/2402.03216)
-  - [ColBERT](https://github.com/stanford-futuredata/ColBERT)
-  - [GraphRAG](https://arxiv.org/pdf/2404.16130)
-  - [LightRAG](https://arxiv.org/pdf/2410.05779)
-- Model
-  - [Sentence-BERT](https://www.sbert.net/)
-  - [BGE](https://bge-model.com/)
-- [Project](https://github.com/Andrew-Jang/RAGHub)
-  - [RAGFlow](https://github.com/infiniflow/ragflow)
+#### Paper
+
+- [RAPTOR](https://arxiv.org/abs/2402.03216)
+- [ColBERT](https://github.com/stanford-futuredata/ColBERT)
+- [GraphRAG](https://arxiv.org/pdf/2404.16130)
+- [LightRAG](https://arxiv.org/pdf/2410.05779)
+
+#### Model
+
+- [Sentence-BERT](https://www.sbert.net/)
+- [BGE](https://bge-model.com/)
+
+#### Project
+
+- [RAGFlow](https://github.com/infiniflow/ragflow)
 
 ### Agent
 
 - [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
-
-#### Project
-
 - [langchain](https://github.com/langchain-ai/langchain)
 - [llama_index](https://github.com/run-llama/llama_index)
 
@@ -291,6 +303,7 @@
   - [orrrrz's blog](https://orrrrz.github.io/2025/01/18/rag/multi-vector/)
   - [gzyatcnblogs](https://www.cnblogs.com/gzyatcnblogs)
   - [ting1's blog: RAG分块策略](https://www.cnblogs.com/ting1/p/18598176)
+
 - Agent
   - [Claude Code 逆向工程研究仓库](https://github.com/shareAI-lab/analysis_claude_code)
 
