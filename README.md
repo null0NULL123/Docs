@@ -188,41 +188,68 @@
 
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
-### [RAG](https://arxiv.org/abs/2005.11401)
+### [RAG](https://www.promptingguide.ai/research/rag.en)
 
 - Extract
   - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
   - [MarkItDown](https://github.com/microsoft/markitdown)
 - Chunking
+  - Rule-based
+    - _nltk_
+    - _sliding_window_
+    - _TextSplitter_
+  - Model-based
+    - [SeqModel](https://arxiv.org/pdf/2107.09278)
+    - [Dense X Retrieval](https://arxiv.org/pdf/2312.06648)
 
-- Embedding
-  - [bge-m3](https://arxiv.org/abs/2402.03216)
 - Indexing
+  - _metadata_
+- Embedding
+  - _Word2Vec_
+  - _GloVe_
+  - [bge-m3](https://arxiv.org/abs/2402.03216)
+
 - Vector Store
   - [Chroma](https://docs.trychroma.com/docs/overview/introduction)
   - [milvus](https://milvus.io/docs)
+  - [FAISS](https://faiss.ai/)
 - Query
-
   - [HyDE](https://arxiv.org/pdf/2212.10496)
+  - Decomposing
+  - Rewriting
 
 - Retrieval
+
+  - Hybrid Search
+  - Recursive Retrieval
+  - Step-Back(<https://arxiv.org/pdf/2310.06117>)
+
+- [Rerank](https://docs.zilliz.com/docs/reranking)
   - _TF-IDF_
   - _Best Matching 25_
+  - _KD-Tree_
   - [ANN](https://docs.zilliz.com/docs/ann-search-explained)
 
-- Rerank
-- Paper
+  - Model
+    - [BGE Reranker](https://bge-model.com/tutorial/5_Reranking/5.2.html)
+- Generation
+  - [Summerization](https://python.langchain.com/docs/tutorials/summarization)
+  - Paraphrasing
+- Evaluation
+  - Project
+    - [ragas](https://github.com/explodinggradients/ragas)
+    - [evalscope](https://github.com/modelscope/evalscope)
+- [Paper](https://www.promptingguide.ai/research/rag.en#rag-research-insights)
 
   - [RAPTOR](https://arxiv.org/abs/2402.03216)
   - [ColBERT](https://github.com/stanford-futuredata/ColBERT)
-
-- Project
+- Model
+  - [Sentence-BERT](https://www.sbert.net/)
+  - [BGE](https://bge-model.com/)
+- [Project](https://github.com/Andrew-Jang/RAGHub)
 
   - [LightRAG](https://github.com/HKUDS/LightRAG)
   - [RAGFlow](https://github.com/infiniflow/ragflow)
-
-  - [ragas](https://github.com/explodinggradients/ragas)
-  - [evalscope](https://github.com/modelscope/evalscope)
 
 ### Agent
 
@@ -263,6 +290,7 @@
   - [syhya's blog](https://syhya.github.io/zh/)
   - [orrrrz's blog](https://orrrrz.github.io/2025/01/18/rag/multi-vector/)
   - [gzyatcnblogs](https://www.cnblogs.com/gzyatcnblogs)
+  - [ting1's blog: RAG分块策略](https://www.cnblogs.com/ting1/p/18598176)
 
 ---
 
