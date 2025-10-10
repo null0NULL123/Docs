@@ -222,7 +222,7 @@
 
   - Hybrid Search
   - Recursive Retrieval
-  - Step-Back(<https://arxiv.org/pdf/2310.06117>)
+  - [Step-Back](https://arxiv.org/pdf/2310.06117)
 
 - [Rerank](https://docs.zilliz.com/docs/reranking)
   - _TF-IDF_
@@ -291,6 +291,8 @@
   - [orrrrz's blog](https://orrrrz.github.io/2025/01/18/rag/multi-vector/)
   - [gzyatcnblogs](https://www.cnblogs.com/gzyatcnblogs)
   - [ting1's blog: RAG分块策略](https://www.cnblogs.com/ting1/p/18598176)
+- Agent
+  - [Claude Code 逆向工程研究仓库](https://github.com/shareAI-lab/analysis_claude_code)
 
 ---
 
