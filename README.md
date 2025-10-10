@@ -201,7 +201,7 @@
 
 - [Introduction](https://www.promptingguide.ai/research/rag.en)
 - [paper](https://www.promptingguide.ai/research/rag.en#rag-research-insights)
-- [RAGHub](https://github.com/Andrew-Jang/RAGHub)
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
 #### Pipeline
 
