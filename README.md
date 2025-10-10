@@ -217,12 +217,12 @@
   - [HyDE](https://arxiv.org/pdf/2212.10496)
   - Decomposing
   - Rewriting
+  - [Step-Back](https://arxiv.org/pdf/2310.06117)
 
 - Retrieval
 
   - Hybrid Search
   - Recursive Retrieval
-  - [Step-Back](https://arxiv.org/pdf/2310.06117)
 
 - [Rerank](https://docs.zilliz.com/docs/reranking)
   - _TF-IDF_
@@ -243,12 +243,12 @@
 
   - [RAPTOR](https://arxiv.org/abs/2402.03216)
   - [ColBERT](https://github.com/stanford-futuredata/ColBERT)
+  - [GraphRAG](https://arxiv.org/pdf/2404.16130)
+  - [LightRAG](https://arxiv.org/pdf/2410.05779)
 - Model
   - [Sentence-BERT](https://www.sbert.net/)
   - [BGE](https://bge-model.com/)
 - [Project](https://github.com/Andrew-Jang/RAGHub)
-
-  - [LightRAG](https://github.com/HKUDS/LightRAG)
   - [RAGFlow](https://github.com/infiniflow/ragflow)
 
 ### Agent
