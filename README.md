@@ -53,7 +53,7 @@
 
 ## Backend
 
-- [小林coding](https://xiaolincoding.com/)
+- [小林 coding](https://xiaolincoding.com/)
 
 ### Database
 
@@ -122,6 +122,7 @@
 ### ML
 
 - Guide
+
   - [鸢尾花书](https://github.com/Visualize-ML)
   - [sklearn](https://scikit-learn.org/stable/user_guide.html)
 
@@ -135,9 +136,10 @@
   - [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
   - [D2L](https://zh.d2l.ai/)
 - Paper
+
   - [Knowledge Distillation](https://arxiv.org/abs/1503.02531)
   - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
-  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 - Project
   - [Netron](https://github.com/lutzroeder/netron)
 
@@ -175,6 +177,11 @@
 
 #### Architecture
 
+- _RNN_
+- _LSTM_
+- [Transformer](https://arxiv.org/abs/1706.03762)
+- [BERT](https://arxiv.org/abs/1810.04805)
+
 - [DeepSeek-R1](https://arxiv.org/pdf/2501.12948)
 
 #### Fine-tuning
@@ -199,7 +206,10 @@
   - [bge-m3](https://arxiv.org/abs/2402.03216)
 - Indexing
 - Vector Store
+  - [Chroma](https://docs.trychroma.com/docs/overview/introduction)
+  - [milvus](https://milvus.io/docs)
 - Query
+
   - [HyDE](https://arxiv.org/pdf/2212.10496)
 
 - Retrieval
@@ -210,7 +220,6 @@
   - _Best Matching 25_
 
 - Rerank
-  
 - Paper
 
   - [RAPTOR](https://arxiv.org/abs/2402.03216)
