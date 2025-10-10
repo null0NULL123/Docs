@@ -19,10 +19,7 @@
   - [Machine Learning](#ml)
   - [Deep Learning](#dl)
   - [Reinforcement Learning](#rl)
-  - [Computer Vision Annotation Tool](#computer-vision-annotation-tool)
-  - [Object Detection](#object-detection)
-  - [Cross Domain](#cross-domain)
-  - [Multi-Object Tracking](#mot)
+  - [Computer Vision](#computer-vision)
   - [Large Language Models](#llm)
   - [Prompt Engineering](#prompt-engineering)
   - [Retrieval-Augmented Generation](#rag)
@@ -138,43 +135,35 @@
 - Book
   - [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
   - [D2L](https://zh.d2l.ai/)
-- Paper
 
+- Training & Inference
+  - [LoRA](https://arxiv.org/abs/2106.09685)
   - [Knowledge Distillation](https://arxiv.org/abs/1503.02531)
-  - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
-
-- Project
-  - [Netron](https://github.com/lutzroeder/netron)
 
 ### RL
 
 - _Proximal Policy Optimization Algorithms_
-
   - [PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch)
+- [RLHF](https://github.com/OpenRLHF/OpenRLHF)
 
-### Computer Vision Annotation Tool
+### Computer Vision
 
-- [CVAT](https://github.com/cvat-ai/cvat)
-- [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)
-
-### Object Detection
-
-- [ultralytics](https://docs.ultralytics.com/zh/)
-- [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
-
-### Cross Domain
-
-- [DANN](https://arxiv.org/pdf/1505.07818)
-- [CDAN](https://github.com/thuml/CDAN)
-- [CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark.git)
-
-### MOT
-
-- [SORT](https://github.com/abewley/sort)
-
-- _Kalman Filter_
-
-- _The Hungarian Method for the Assignment Problem_
+- YOLO
+  - [ultralytics](https://docs.ultralytics.com/zh/)
+  - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+- Annotation Tool
+  - [CVAT](https://github.com/cvat-ai/cvat)
+  - [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)
+- Cross Domain
+  - [DANN](https://arxiv.org/pdf/1505.07818)
+  - [CDAN](https://github.com/thuml/CDAN)
+  - [CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark.git)
+- MOT
+  - [SORT](https://github.com/abewley/sort)
+  - _Kalman Filter_
+  - _The Hungarian Method for the Assignment Problem_
+- Visualization
+  - [Netron](https://github.com/lutzroeder/netron)
 
 ### LLM
 
@@ -186,11 +175,6 @@
 - [BERT](https://arxiv.org/abs/1810.04805)
 - [Llama](https://github.com/meta-llama/llama-cookbook)
 - [DeepSeek-R1](https://arxiv.org/pdf/2501.12948)
-
-#### Inference
-
-- [LoRA](https://arxiv.org/abs/2106.09685)
-- [RLHF](https://github.com/OpenRLHF/OpenRLHF)
 
 #### Platform
 
@@ -219,11 +203,9 @@
   - [HyDE](https://arxiv.org/pdf/2212.10496)
 
 - Retrieval
-
-  - [ANN](https://zilliz.com/glossary/anns)
-
   - _TF-IDF_
   - _Best Matching 25_
+  - [ANN](https://docs.zilliz.com/docs/ann-search-explained)
 
 - Rerank
 - Paper
@@ -247,8 +229,6 @@
 
 - [langchain](https://github.com/langchain-ai/langchain)
 - [llama_index](https://github.com/run-llama/llama_index)
-- [Cohere](https://docs.cohere.com/docs/the-cohere-platform)
-- [langfuse](https://langfuse.com/cn)
 
 #### IDE
 
