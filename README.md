@@ -159,10 +159,12 @@
 - [RLHF](https://github.com/OpenRLHF/OpenRLHF)
 
 ### Computer Vision
-
+- IOU
+  - [GIOU](https://arxiv.org/pdf/1902.09630)
 - YOLO
   - [ultralytics](https://docs.ultralytics.com/zh/)
   - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+  - [TOOD: Task-aligned One-stage Object Detection](https://arxiv.org/pdf/2108.07755)
 - Annotation Tool
   - [CVAT](https://github.com/cvat-ai/cvat)
   - [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)
