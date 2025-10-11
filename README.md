@@ -230,7 +230,7 @@
 - Vector Store
   - [Chroma](https://docs.trychroma.com/docs/overview/introduction)
   - [milvus](https://milvus.io/docs)
-  - [FAISS](https://faiss.ai/)
+  - [Faiss](https://github.com/facebookresearch/faiss/wiki)
 - Query
   - _Hypothetical Questions_
   - [HyDE](https://arxiv.org/pdf/2212.10496)
