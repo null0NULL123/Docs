@@ -239,16 +239,21 @@
   - [Step-Back](https://arxiv.org/pdf/2310.06117)
 
 - Retrieval
+  - Micro
+    - _TF-IDF_
+    - _Best Matching 25_
+    - _KD-Tree_
 
-  - Hybrid Search
-  - Recursive Retrieval
+    - [HNSW](https://arxiv.org/pdf/1603.09320)
+    - [Multi-Index Hashing](https://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)
+    - [Navigating Spreading-out Graph](https://arxiv.org/pdf/1707.00143)
+  - Macro
+    - Hybrid Search
+    - Recursive Retrieval
 
 - [Rerank](https://docs.zilliz.com/docs/reranking)
-  - _TF-IDF_
-  - _Best Matching 25_
-  - _KD-Tree_
-  - [ANN](https://docs.zilliz.com/docs/ann-search-explained)
 
+  - [RRF](https://cormack.uwaterloo.ca/cormacksigir09-rrf.pdf)
   - Model
     - [BGE Reranker](https://bge-model.com/tutorial/5_Reranking/5.2.html)
 - Generation
