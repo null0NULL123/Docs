@@ -1,5 +1,7 @@
 # Docs
 
+这里不仅是我平时学习和工作中遇到的一些资料和工具的汇总，也是对于知识的总结。 Thanks to 模块是我检索时参考的一些仓库和博客。
+
 ## Category
 
 - [Language](#language)
@@ -208,10 +210,11 @@
 - Extract
   - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
   - [MarkItDown](https://github.com/microsoft/markitdown)
+  - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)
 - Chunking
   - Rule-based
     - _nltk_
-    - _sliding_window_
+    - _sliding-window_
     - _TextSplitter_
   - Model-based
     - [SeqModel](https://arxiv.org/pdf/2107.09278)
@@ -229,6 +232,7 @@
   - [milvus](https://milvus.io/docs)
   - [FAISS](https://faiss.ai/)
 - Query
+  - _Hypothetical Questions_
   - [HyDE](https://arxiv.org/pdf/2212.10496)
   - Decomposing
   - Rewriting
@@ -303,7 +307,7 @@
   - [Tian Gao](https://github.com/gaogaotiantian)
   - [Yuerer's Blog](https://yuerer.com/categories/Python3/)
 - RAG
-  - [AGI 掘金](https://agijuejin.feishu.cn/wiki/UvJPwhfkiitMzhkhEfycUnS9nAm)
+  - [AGI 掘金](https://agijuejin.feishu.cn/wiki/X3olwSF0fiTdhLkDSyncid8Vngd)
   - [syhya's blog](https://syhya.github.io/zh/)
   - [orrrrz's blog](https://orrrrz.github.io/2025/01/18/rag/multi-vector/)
   - [gzyatcnblogs](https://www.cnblogs.com/gzyatcnblogs)
