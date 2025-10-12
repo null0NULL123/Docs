@@ -156,6 +156,7 @@
 
 - _Proximal Policy Optimization Algorithms_
   - [PPO-PyTorch](https://github.com/nikhilbarhate99/PPO-PyTorch)
+- [GRPO](https://arxiv.org/pdf/2402.03300)
 - [RLHF](https://github.com/OpenRLHF/OpenRLHF)
 
 ### Computer Vision
@@ -315,10 +316,7 @@
   - [Yuerer's Blog](https://yuerer.com/categories/Python3/)
 - RAG
   - [AGI 掘金](https://agijuejin.feishu.cn/wiki/X3olwSF0fiTdhLkDSyncid8Vngd)
-  - [syhya's blog](https://syhya.github.io/zh/)
-  - [orrrrz's blog](https://orrrrz.github.io/2025/01/18/rag/multi-vector/)
-  - [gzyatcnblogs](https://www.cnblogs.com/gzyatcnblogs)
-  - [ting1's blog: RAG分块策略](https://www.cnblogs.com/ting1/p/18598176)
+
 
 - Agent
   - [Claude Code 逆向工程研究仓库](https://github.com/shareAI-lab/analysis_claude_code)
